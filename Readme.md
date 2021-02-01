@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Oksana Palladii](https://up.htmlacademy.ru/javascript/22/user/476339).
-* Наставник: `Неизвестно`.
+* Наставник: [Никита Пиковец] (https://htmlacademy.ru/profile/id503133).
 
 ---
 
