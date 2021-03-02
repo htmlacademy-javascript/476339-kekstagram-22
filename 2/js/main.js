@@ -14,10 +14,8 @@ getRandomIntInclusive(0, 10);
 
 // Источник https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/length
 
-const MAX_LENGTH = 140;
-
 const limitText = (text, MAX_LENGTH) => {
-  var textLength  = text;
+  const textLength  = text;
   if (textLength.length <= MAX_LENGTH) {
     return true;
   } else {
@@ -25,3 +23,4 @@ const limitText = (text, MAX_LENGTH) => {
   }
 }
 
+limitText('text', 140);
